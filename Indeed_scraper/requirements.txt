@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+requests[socks]==2.31.0
+psycopg2-binary==2.9.9
+lxml==4.9.3
+selenium==4.15.2
+webdriver-manager==4.0.1
+PySocks==1.7.1
+
